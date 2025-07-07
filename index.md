@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Will Patrone
-subtitle: Graduate Student | University of Washington
+subtitle: Graduate Student | University of Washington SAFS
 ---
 
 Growing up in South Florida, the aquatic environment was all around me. I frequently spent my days at the beach, snorkeling in the water or collecting shells on the beach. Having ready access to the ocean sparked a love and appreciation for the aquatic environment. 
