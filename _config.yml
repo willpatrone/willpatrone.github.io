@@ -22,9 +22,9 @@ author: Will Patrone
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Fisheries Management: "https://beautifuljekyll.com"
-    - Marine Biodiveristy: "https://www.markdowntutorial.com/"
-  CV: "https://deanattali.com"
+    - Fisheries Management: 
+    - Marine Biodiveristy: 
+  CV: 
 
 ################
 # --- Logo --- #
