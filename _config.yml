@@ -24,10 +24,10 @@ navbar-links:
   Research Areas:
     - Fisheries Management: "FisheriesManagement"
     - Marine Biodiversity: "MarineBiodiversity"
-  Teaching/Outreach:
-    - Courses: "Courses"
+  Service:
+    - Teaching: "Courses"
     - STEM Education: "STEMEd"
-    - Service: "Service"
+    - Outreach & Service: "Service"
   CV: "WillPatrone_CV"
 
 ################
