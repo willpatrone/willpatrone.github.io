@@ -59,7 +59,7 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: willpatrone
+  linkedin: willpatrone
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -74,7 +74,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
   ORCID: 0009-0007-5177-7716
-#  google-scholar: https://scholar.google.com/citations?user=6WNj2_8AAAAJ&hl=en&authuser=3
+  google-scholar: https://scholar.google.com/citations?user=6WNj2_8AAAAJ&hl=en&authuser=3
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
