@@ -25,10 +25,10 @@ navbar-links:
     - Fisheries Management: "FisheriesManagement"
     - Marine Biodiversity: "MarineBiodiversity"
   Teaching and Outreach:
-    - Courses Taught:
-    - STEM Education Outreach:
-    - Service: 
-  CV: 
+    - Courses: "Courses"
+    - STEM Education Outreach: "STEMEd"
+    - Service: "Service"
+  CV: "WillPatrone_CV"
 
 ################
 # --- Logo --- #
