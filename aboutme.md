@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 ---
 
 Growing up in South Florida, the aquatic environment was all around me. I frequently spent my days at the beach, snorkeling in the water or collecting shells on the beach. Having ready access to the ocean sparked a love and appreciation for the aquatic environment. 
