@@ -21,9 +21,9 @@ author: Will Patrone
 
 navbar-links:
   About Me: "aboutme"
-  Research:
-    - Fisheries Management: 
-    - Marine Biodiveristy: 
+  Research Areas:
+    - Fisheries Management: "FisheriesManagement"
+    - Marine Biodiversity: "MarineBiodiversity"
   CV: 
 
 ################
