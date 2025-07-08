@@ -8,15 +8,15 @@ title: Teaching
 **Currently under construction. Come back later!**
 
 ## Teaching Assistantships
-# ECP 3703 Managerial Economics
+### ECP 3703 Managerial Economics
 **Currently under construction. Come back later!**
 
 ## Reader/Grader and Instructional Support
-# ESRM 426 Wildland Hydrology
+### ESRM 426 Wildland Hydrology
 **Currently under construction. Come back later!**
 
-# EVR2001 Introduction to Environmental Science
+### EVR2001 Introduction to Environmental Science
 **Currently under construction. Come back later!**
 
-# ZOO4403C Marine Biology
+### ZOO4403C Marine Biology
 **Currently under construction. Come back later!**
