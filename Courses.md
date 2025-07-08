@@ -9,7 +9,7 @@ title: Teaching
 
 ## Teaching Assistantships
 ### ECP 3703 Managerial Economics
-**Currently under construction. Come back later!**
+**Currently under construction. Come back later!** for more details
 
 ## Reader/Grader and Instructional Support
 ### ESRM 426 Wildland Hydrology
