@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 ## Instructor of Record
-# ENVIR 310 Data Analysis in Environmental Studies
+### ENVIR 310 Data Analysis in Environmental Studies
 **Currently under construction. Come back later!**
 
 ## Teaching Assistantships
