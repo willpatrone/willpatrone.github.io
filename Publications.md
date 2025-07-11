@@ -7,4 +7,4 @@ title: Publications
    
 ## In Review
 1.	Kinneen, M., Goodman, M., Sulc, A., Balstad, l., Diaz, R., Randrup, K., **Patrone, W.**, Spencer, L., Morell, A., Rovellini, A., Dedrick, A., Grunloh, N., Bargas, M., Hopkins, S., Gersteva, V., Oken, K., Taylor, I., Haltuch, M., & Hamel, O (2025) Stock Assessment Update: Status of Widow Rockfish (Sebastes entomelas) Along the U.S. West Coast in 2025. Pacific Fishery Management Council, Portland, Oregon. *Submitted for review to NOAA NWFSC and the Pacific Fishery Management Council’s Science and Statistical Committee*
-2.	**Patrone, W** & Punt, A.E. (2025) Identifying and Classifying Métiers for Groundfish on the US West Coast. *Submitted for review to the journal Transactions of the American Fisheries Society*
+2.	**Patrone, W** & Punt, A.E. (2025) Identifying and Classifying Métiers for Groundfish on the US West Coast. *Submitted for review to the journal Fishery Bulletin*
