@@ -6,7 +6,6 @@ title: Teaching
 ## Instructor of Record
 #### ENVIR 310 Data Analysis in Environmental Studies
 *University of Washington*
-**Currently under construction. Come back later!**
 
 ## Teaching Assistantships
 #### ECP 3703 Managerial Economics
