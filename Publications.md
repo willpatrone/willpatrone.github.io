@@ -12,14 +12,13 @@ title: Publications
 ## In Preparation
 1.	**Patrone, W.**, Wang, T., de Barros, M., Rothman, B., Whalen, C., Comisso, G., Yeabsley, J., Durkin, K., Randrup, K., Hong, L., Thom, M., Nel, R., Shorna, S., Triviño, T., Bengtsson, Z., Rand., Z., Baker, M., & Hilborn, R. (2026) Global Trends In Marine Biodiversity Across All Taxa
 2.	**Patrone, W.**, & Punt, A.E. (2026) Calculating Multispecies Bioeconomic Target Reference Points for Groundfish of the US West Coast
-3.	Privitera-Johnson, K., Kinneen, M., Rovellini, A, Diaz, R., Indivero, J., Liu, O., Goodman, M., Lee, Q., Allen Askelrud, C., Wang, T., Sulc, A., Best, J., Shipley, M., **Patrone, W.**, Hinshaw, T., Morokhovich, N. & Punt, A.E (2026). Passing The Red-Face Test: A Practical Guide To Robust Fisheries Simulation Testing
 
 
 ## Projects In-Progress
 1.	Engaging Underrepresented Students in the Geosciences at a Research-Intensive University: Outcomes for Student Success
-   
 Collaborators: Guzman, J. M., Nuwer, M., Dolliver, J., Weltzien, K., Xu, A., Thompson, L.A., Levine, C., & Naish, K. A.
-3.	Adapting the Gulf of Alaska Atlantis Ecosystem Model To Incorporate Salmon Life History, Fleet-Specific Mortality, Regional Economic Linkages, and Analyses of Uncertainty
-   
-Collaborators: Rovellini, A., Punt, A.E., Dorn, M.W., Kaplan, I.C., Bryan, M.D., Adams, G., Aydin, K., Baker, M.R., Barnes, C.L., Ferriss, B.E., Fulton, E.A., Haltuch, M.A., Hermann, A.J., Holsman, K.K., McGilliard, C.R., McHuron, E.A., Morzaria-Luna, H.N., & Surma, S. 
+2.	Adapting the Gulf of Alaska Atlantis Ecosystem Model To Incorporate Salmon Life History, Fleet-Specific Mortality, Regional Economic Linkages, and Analyses of Uncertainty
+Collaborators: Rovellini, A., Punt, A.E., Dorn, M.W., Kaplan, I.C., Bryan, M.D., Adams, G., Aydin, K., Baker, M.R., Barnes, C.L., Ferriss, B.E., Fulton, E.A., Haltuch, M.A., Hermann, A.J., Holsman, K.K., McGilliard, C.R., McHuron, E.A., Morzaria-Luna, H.N., & Surma, S.
+3. Passing The Red-Face Test: A Practical Guide To Robust Fisheries Simulation Testing
+Collaborators: Privitera-Johnson, K., Kinneen, M., Rovellini, A, Diaz, R., Indivero, J., Liu, O., Goodman, M., Lee, Q., Allen Askelrud, C., Wang, T., Sulc, A., Best, J., Shipley, M., Hinshaw, T., Morokhovich, N. & Punt, A.E
 
