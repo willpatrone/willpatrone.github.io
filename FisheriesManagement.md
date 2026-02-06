@@ -11,6 +11,6 @@ No species lives in isolation. For my master's thesis, I am examining possible m
 ## Stock Assessment
 Through a collaboration between UW and NOAA's NWFSC, graduate students can work under the guidance of stock assessment experts to produce a stock assessment for a groundfish species on the US West coast. I was part of the 2025 update assessment for the Widow rockfish (*Sebastes entomelas*). My role included data cleaning, processing, and modelling in R (including using the packages *r4ss* and *nwfscDiag*), running likelihood estimates for biological parameters, updating species information with new findings, and writing and editing the final stock assessment document.
 
-<img align="top" src="/assets/img/Widow rockfish assessment image for website" alt= "Time series of relative spawning biomass (fraction unfished) estimates from model runs bridging from the August 2025 model (blue) to the base model (red)." width="650"
+<img align="top" src="/assets/img/Widow rockfish assessment image for website.jpg" alt= "Time series of relative spawning biomass (fraction unfished) estimates from model runs bridging from the August 2025 model (blue) to the base model (red)." width="650"
      height="449" />
      
