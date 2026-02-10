@@ -8,6 +8,9 @@ Science Olympiad (SciOly) is a 501 (c)(3) nonprofit dedicated to promoting K-12 
 ## Ocean Rescue Alliance
 [Ocean Rescue Alliance](https://www.oceanrescuealliance.org/) is a marine nonprofit dedicated to the conservation of reef ecosystems. I worked as a science advisor to their CEO, Dr. Shelby Thomas, working to synthesize scientific information into business and economic reports. Much of this work focused on reef ecosystem services and their relative economic impacts, conveying this information in a nontechnical manner so non-experts can glean the important information. I also provided advice on potential artificial reef expansion strategies to improve coastal protection and increase biodiversity. 
 
+<img align="top" src="/assets/img/Ocean Rescue Alliance Website Image.jpg" alt= "A diver swims past an artificial reef made by Ocean Rescue Alliance International, as the organization's logo is overlaid over the diver and reef" width="650"
+     height="449" />
+
 ## University Service
 #### Capstone Advising
 I serve as a [Scholarly Faculty Advisor](https://envstudies.uw.edu/capstone-experience/faculty-mentors/) for UW's Program on the Environment Undergraduate Capstone. Students work with a Capstone Partner to engage in a hands-on research or internship opportunity. The Scholarly Advisor provides mentorship, skills training, and support to the student throughout their three-quarter capstone, ensuring they feel ready to complete the tasks from their Capstone Partner and are able to apply these skills to their future careers.
