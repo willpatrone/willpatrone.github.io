@@ -8,8 +8,8 @@ Science Olympiad (SciOly) is a 501 (c)(3) nonprofit dedicated to promoting K-12 
 <img align="top" src="/assets/img/SciOly website Image.jpg" alt= "Students in lab coats compete in the Chemistry Lab event, a high school level Science Olympiad event." width="650"
      height="449" />
 
-## Ocean Rescue Alliance
-[Ocean Rescue Alliance](https://www.oceanrescuealliance.org/) is a marine nonprofit dedicated to the conservation of reef ecosystems. I worked as a science advisor to their CEO, Dr. Shelby Thomas, working to synthesize scientific information into business and economic reports. Much of this work focused on reef ecosystem services and their relative economic impacts, conveying this information in a nontechnical manner so non-experts can glean the important information. I also provided advice on potential artificial reef expansion strategies to improve coastal protection and increase biodiversity. 
+## Ocean Rescue Alliance International
+[Ocean Rescue Alliance International](https://www.oceanrescuealliance.org/) is a marine nonprofit dedicated to the conservation of reef ecosystems. I worked as a science advisor to their CEO, Dr. Shelby Thomas, working to synthesize scientific information into business and economic reports. Much of this work focused on reef ecosystem services and their relative economic impacts, conveying this information in a nontechnical manner so non-experts can glean the important information. I also provided advice on potential artificial reef expansion strategies to improve coastal protection and increase biodiversity. 
 
 <img align="top" src="/assets/img/Ocean Rescue Alliance Website Image.jpg" alt= "A diver swims past an artificial reef made by Ocean Rescue Alliance International, as the organization's logo is overlaid over the diver and reef" width="650"
      height="449" />
@@ -24,7 +24,7 @@ I serve as a [Scholarly Faculty Advisor](https://envstudies.uw.edu/capstone-expe
 #### Curriculum Committees
 I have previously served as the graduate representative on the School of Aquatic and Fishery Sciences Curriculum committee, where we work with faculty to review new proposed courses and provide guidance on best practices, and aid in course content and delivery revisions to courses in the school. I currently serve on the [College of the Environment's Curriculum Committee](https://environment.uw.edu/intranet/governance/curriculum-committee/), where I work with faculty from across the college to critically review syllabi, discuss departmental and degree-based curricular needs, and help stimulate new curricular growth at the college and departmental level.
 
-#### Seminar Organization
+#### Fisheries Think Tank Seminar
 I organized the [Fisheries Think Tank](https://www.youtube.com/playlist?list=PLL6tmlU3fRsm7eD4PzV6wdn3NBXKeci4f) seminar. This seminar is not a traditional seminar, but rather a discussion of in-progress research. Seminars are collaborative, with researchers discussing novel applications, challenges in current projects, or plans for future work, and can brainstorm with world-renowned fisheries experts to enhance their research and solve potential sticking points.
 
 <img align="top" src="/assets/img/Think Tank website image.jpg" alt= "Jim Thorson gives a presentation on a model using the dsem and tinyVAST packages." width="650"
