@@ -3,7 +3,7 @@ layout: page
 title: Marine Biodiversity
 ---
 ## Global Trends in Marine Biodiversity
-Much is made of declining biodiversity at a global scale. However, there has yet to be a study examining global marine biodiversity. Under the guidance of Dr. Ray Hilborn, graduate students at UW collated data for all available marine taxa, standardized data and model outputs, and examined trends in global biodiversity and compared them to regional trends by taxa and habitat. I am currently leading this work alongside two other graduate students.
+Much is made of declining biodiversity at a global scale. However, there has yet to be a study examining global marine biodiversity. Under the guidance of Dr. Ray Hilborn, graduate students at UW collated data for all available marine taxa, standardized data and model outputs, and examined trends in global biodiversity and compared them to regional trends by taxa and habitat using MARSS. I am currently leading this work alongside two other graduate students.
 
 <img align="top" src="/assets/img/image (1).png" alt= "Distribution of data points by location. The color gradient from red to green indicates the number of years of data available at a site" width="650"
      height="449" />
