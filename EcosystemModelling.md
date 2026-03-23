@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marine Biodiversity
+title: Ecosystem Modelling
 ---
 ## Atlantis Ecosystem Model for the Gulf of Alaska (GOA)
 The Atlantis model is being developed as part of the [Gulf of Alaska Climate Integrated Modeling (GOACLIM) Project](https://www.fisheries.noaa.gov/alaska/ecosystems/gulf-alaska-climate-integrated-modeling-project) as one model in an ensemble to examine climate variations within the Gulf of Alaska's ecosystem. My specific work focuses on the addition of an ecosystem cap that would be a restrictive ceiling on groundfish catch in the region, integrating fleet and spatial dynamics into fishing mortality, adding price flexibilities into revenue and fisher targeting preferences, and conducting various analyses of uncertainty. 
